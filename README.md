@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Azure Sentinel SIEM Setup</b>
+- <b>Microsoft Sentinel</b>
 
 <h2> 🤳 Connect with me:</h2>
 
