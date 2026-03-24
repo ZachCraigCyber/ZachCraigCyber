@@ -5,7 +5,6 @@
 - <b>SIEM Deployment with Microsoft Sentinel & Honeypot VM</b>
   - [View Project](https://github.com/ZachCraigCyber/microsoft-sentinel-siem-lab.git)
 
-
 <h2> 🤳 Connect with me:</h2>
 
 <img align="left" alt="ZacharyCraig | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
