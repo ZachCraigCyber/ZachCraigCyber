@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zach! <br/><a Aspiring Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Zach! <br/>Aspiring Cybersecurity Professional</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
