@@ -2,7 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Microsoft Sentinel</b>
+- <b>SIEM Deployment with Microsoft Sentinel & Honeypot VM</b>
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
