@@ -4,7 +4,7 @@
 
 - <b>SIEM Deployment with Microsoft Sentinel & Honeypot VM</b>
   - [View Project](https://github.com/ZachCraigCyber/microsoft-sentinel-siem-lab.git)
-- <b>Keylogger that Sends Emails</b>
+- <b>Keylogger that Sends Emails (In Progress)</b>
   - [View Project](https://github.com/ZachCraigCyber/keylogger-with-email-lab)
 <h2> 🤳 Connect with me:</h2>
 
