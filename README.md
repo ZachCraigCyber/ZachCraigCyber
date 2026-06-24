@@ -10,7 +10,7 @@
 <h2> 🖥️ Personal Projects:</h2>
 
 - <b>Custom Gaming PC Build - Personal Workstation</b>
-  -[View Project](https://github.com/ZachCraigCyber/personal-workstation-build)
+  - [View Project](https://github.com/ZachCraigCyber/personal-workstation-build)
 
 - <b>Custom Gaming PC Build – Friend Project #1</b>
 
