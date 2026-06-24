@@ -9,6 +9,12 @@
 
 <h2> 🖥️ Personal Projects:</h2>
 
+- <b>Custom Gaming PC Build - Personal Workstation</b>
+
+- <b>Custom Gaming PC Build – Friend Project #1</b>
+
+- <b>Custom Gaming PC Build – Friend Project #2</b>
+
 <h2> 🤳 Connect with me:</h2>
 
 <img align="left" alt="ZacharyCraig | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
