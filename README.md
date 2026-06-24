@@ -11,10 +11,8 @@
 
 - <b>Custom Gaming PC Build - Personal Workstation</b>
   - [View Project](https://github.com/ZachCraigCyber/personal-workstation-build)
-
 - <b>Custom Gaming PC Build – Friend Project #1</b>
   - [View Project](https://github.com/ZachCraigCyber/friend1-workstation-build)
-
 - <b>Custom Gaming PC Build – Friend Project #2</b>
   - [View Project](https://github.com/ZachCraigCyber/friend2-workstation-build)
 
