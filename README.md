@@ -6,9 +6,10 @@
   - [View Project](https://github.com/ZachCraigCyber/microsoft-sentinel-siem-lab.git)
 - <b>Keylogger that Sends Emails (In Progress)</b>
   - [View Project](https://github.com/ZachCraigCyber/keylogger-with-email-lab)
-<h2> 🤳 Connect with me:</h2>
 
 <h2> 🖥️ Personal Projects:</h2>
+
+<h2> 🤳 Connect with me:</h2>
 
 <img align="left" alt="ZacharyCraig | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 https://linkedin.com/in/zacharyrcraig 
